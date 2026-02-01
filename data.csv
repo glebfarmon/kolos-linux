@@ -1,0 +1,151 @@
+ID,Nazwa_produktu,Kategoria,Cena,Ilosc_w_magazynie,Producent,Data_dodania,Ocena,Kraj_pochodzenia,Status_dostepnosci
+1,Laptop Dell XPS 15,Elektronika,5499.00,12,Dell,2023-01-15,4.5,USA,Dostepny
+2,Mysz Logitech MX Master,Elektronika,349.00,45,Logitech,2023-02-20,4.8,Szwajcaria,Dostepny
+3,Klawiatura Corsair K95,Elektronika,799.00,23,Corsair,2023-01-30,4.6,USA,Dostepny
+4,Monitor Samsung 27,Elektronika,1299.00,8,Samsung,2023-03-10,4.7,Korea,Dostepny
+5,Słuchawki Sony WH-1000XM4,Elektronika,1199.00,34,Sony,2023-02-05,4.9,Japonia,Dostepny
+6,Koszulka Nike Dri-FIT,Odziez,129.00,156,Nike,2023-04-12,4.2,Wietnam,Dostepny
+7,Spodnie Adidas Tiro,Odziez,199.00,89,Adidas,2023-03-25,4.3,Chiny,Dostepny
+8,Buty Puma RS-X,Odziez,449.00,67,Puma,2023-05-08,4.4,Indonezja,Dostepny
+9,Kurtka Columbia Omni-Heat,Odziez,899.00,23,Columbia,2023-02-18,4.6,USA,Dostepny
+10,Czapka The North Face,Odziez,149.00,112,The North Face,2023-06-01,4.1,Bangladesz,Dostepny
+11,Kawa Lavazza Qualita Oro,Zywnosc,45.00,234,Lavazza,2023-01-20,4.7,Włochy,Dostepny
+12,Herbata Twinings Earl Grey,Zywnosc,28.00,178,Twinings,2023-02-14,4.5,Wielka Brytania,Dostepny
+13,Czekolada Lindt Excellence,Zywnosc,15.00,456,Lindt,2023-03-08,4.8,Szwajcaria,Dostepny
+14,Chipsy Lay's Papryka,Zywnosc,8.00,567,Lay's,2023-04-22,4.0,Polska,Dostepny
+15,Sok Tymbark Pomarańcza,Zywnosc,6.00,789,Tymbark,2023-05-15,4.2,Polska,Dostepny
+16,Tablet Apple iPad Pro,Elektronika,4999.00,15,Apple,2023-01-12,4.9,USA,Dostepny
+17,Smartfon Samsung Galaxy S23,Elektronika,3999.00,28,Samsung,2023-02-28,4.7,Korea,Dostepny
+18,Smartwatch Garmin Fenix,Elektronika,2499.00,19,Garmin,2023-03-15,4.6,USA,Dostepny
+19,Drukarka HP LaserJet,Elektronika,1899.00,11,HP,2023-04-05,4.4,Chiny,Dostepny
+20,Router TP-Link Archer,Elektronika,399.00,67,TP-Link,2023-05-20,4.3,Chiny,Dostepny
+21,Płyta główna ASUS ROG,Elektronika,1599.00,14,ASUS,2023-01-25,4.8,Tajwan,Dostepny
+22,Karta graficzna NVIDIA RTX,Elektronika,3499.00,6,NVIDIA,2023-02-10,4.9,USA,Brak
+23,Procesor AMD Ryzen 9,Elektronika,2299.00,22,AMD,2023-03-20,4.7,USA,Dostepny
+24,Dysk SSD Samsung 1TB,Elektronika,499.00,89,Samsung,2023-04-15,4.6,Korea,Dostepny
+25,Zasilacz Corsair 850W,Elektronika,699.00,34,Corsair,2023-05-10,4.5,USA,Dostepny
+26,Bluza Levi's Logo,Odziez,259.00,145,Levi's,2023-01-18,4.3,Meksyk,Dostepny
+27,Jeansy Wrangler Texas,Odziez,299.00,98,Wrangler,2023-02-22,4.4,Turcja,Dostepny
+28,Koszula Tommy Hilfiger,Odziez,349.00,76,Tommy Hilfiger,2023-03-12,4.5,Indie,Dostepny
+29,Sukienka Zara Floral,Odziez,199.00,134,Zara,2023-04-28,4.2,Hiszpania,Dostepny
+30,Płaszcz Burberry Classic,Odziez,2999.00,8,Burberry,2023-05-05,4.8,Włochy,Dostepny
+31,Mąka Tortowa Polskie Młyny,Zywnosc,12.00,456,Polskie Młyny,2023-01-22,4.4,Polska,Dostepny
+32,Cukier Biały Südzucker,Zywnosc,8.00,678,Südzucker,2023-02-16,4.1,Niemcy,Dostepny
+33,Masło Mlekovita Extra,Zywnosc,18.00,234,Mlekovita,2023-03-10,4.6,Polska,Dostepny
+34,Ser Gouda Hochland,Zywnosc,22.00,189,Hochland,2023-04-20,4.5,Polska,Dostepny
+35,Jogurt Danone Activia,Zywnosc,5.00,567,Danone,2023-05-12,4.3,Francja,Dostepny
+36,Laptop Lenovo ThinkPad,Elektronika,4299.00,18,Lenovo,2023-01-28,4.6,Chiny,Dostepny
+37,Kamera Canon EOS R6,Elektronika,11999.00,7,Canon,2023-02-12,4.9,Japonia,Dostepny
+38,Obiektyw Nikon 24-70mm,Elektronika,4599.00,9,Nikon,2023-03-18,4.8,Japonia,Dostepny
+39,Statyw Manfrotto MT055,Elektronika,799.00,23,Manfrotto,2023-04-25,4.5,Włochy,Dostepny
+40,Lampa LED Godox SL60,Elektronika,899.00,15,Godox,2023-05-30,4.4,Chiny,Dostepny
+41,Konsola PlayStation 5,Elektronika,2499.00,12,Sony,2023-01-10,4.9,Japonia,Brak
+42,Konsola Xbox Series X,Elektronika,2299.00,14,Microsoft,2023-02-08,4.8,USA,Dostepny
+43,Kontroler DualSense,Elektronika,299.00,67,Sony,2023-03-14,4.7,Japonia,Dostepny
+44,Gra FIFA 24,Elektronika,299.00,123,EA Sports,2023-04-18,4.3,USA,Dostepny
+45,Gra Cyberpunk 2077,Elektronika,199.00,89,CD Projekt,2023-05-22,4.2,Polska,Dostepny
+46,Rękawiczki Columbia,Odziez,99.00,178,Columbia,2023-01-16,4.2,USA,Dostepny
+47,Szalik CMP Fleece,Odziez,79.00,234,CMP,2023-02-20,4.0,Włochy,Dostepny
+48,Skarpety Nike Elite,Odziez,49.00,456,Nike,2023-03-16,4.1,Wietnam,Dostepny
+49,Pasek Levi's Leather,Odziez,129.00,123,Levi's,2023-04-10,4.3,Indie,Dostepny
+50,Portfel Tommy Hilfiger,Odziez,249.00,89,Tommy Hilfiger,2023-05-14,4.4,Chiny,Dostepny
+51,Woda Mineralna Żywiec,Zywnosc,3.00,1234,Żywiec Zdrój,2023-01-24,4.3,Polska,Dostepny
+52,Piwo Tyskie Gronie,Zywnosc,5.00,890,Tyskie,2023-02-18,4.2,Polska,Dostepny
+53,Wino Chianti Classico,Zywnosc,89.00,67,Antinori,2023-03-22,4.7,Włochy,Dostepny
+54,Whisky Johnnie Walker,Zywnosc,149.00,45,Johnnie Walker,2023-04-26,4.6,Szkocja,Dostepny
+55,Wódka Żubrówka Biała,Zywnosc,45.00,123,Żubrówka,2023-05-28,4.4,Polska,Dostepny
+56,Mikrofon Blue Yeti,Elektronika,599.00,34,Blue,2023-01-14,4.7,USA,Dostepny
+57,Kamera Logitech C920,Elektronika,449.00,56,Logitech,2023-02-24,4.6,Szwajcaria,Dostepny
+58,Głośnik JBL Flip 6,Elektronika,499.00,78,JBL,2023-03-28,4.5,USA,Dostepny
+59,Powerbank Anker 20000mAh,Elektronika,199.00,134,Anker,2023-04-30,4.4,Chiny,Dostepny
+60,Ładowarka Belkin USB-C,Elektronika,149.00,167,Belkin,2023-06-02,4.3,USA,Dostepny
+61,Telefon iPhone 15 Pro,Elektronika,5999.00,9,Apple,2023-01-08,4.9,USA,Dostepny
+62,Telefon Xiaomi 13,Elektronika,2999.00,23,Xiaomi,2023-02-06,4.6,Chiny,Dostepny
+63,Telefon OnePlus 11,Elektronika,3299.00,17,OnePlus,2023-03-04,4.7,Chiny,Dostepny
+64,Etui Spigen Tough Armor,Elektronika,89.00,234,Spigen,2023-04-08,4.4,Korea,Dostepny
+65,Szkło Ochronne Ringke,Elektronika,49.00,345,Ringke,2023-05-06,4.2,Korea,Dostepny
+66,Bluza H&M Basic,Odziez,89.00,267,H&M,2023-01-20,3.9,Bangladesz,Dostepny
+67,T-shirt Reserved Print,Odziez,59.00,345,Reserved,2023-02-26,4.0,Polska,Dostepny
+68,Spodnie Cropp Jogger,Odziez,119.00,198,Cropp,2023-03-30,4.1,Polska,Dostepny
+69,Kurtka Mohito Puffer,Odziez,249.00,134,Mohito,2023-05-02,4.2,Polska,Dostepny
+70,Sweter Sinsay Knit,Odziez,79.00,234,Sinsay,2023-06-04,3.8,Polska,Dostepny
+71,Makaron Barilla Penne,Zywnosc,9.00,678,Barilla,2023-01-26,4.5,Włochy,Dostepny
+72,Ryż Basmati Uncle Ben's,Zywnosc,15.00,456,Uncle Ben's,2023-03-01,4.4,USA,Dostepny
+73,Kasza Gryczana Sonko,Zywnosc,7.00,567,Sonko,2023-04-03,4.3,Polska,Dostepny
+74,Płatki Owsiane Nestlé,Zywnosc,12.00,789,Nestlé,2023-05-07,4.2,Szwajcaria,Dostepny
+75,Musli Fitness Nestlé,Zywnosc,18.00,345,Nestlé,2023-06-09,4.4,Szwajcaria,Dostepny
+76,Monitor LG UltraWide,Elektronika,1799.00,11,LG,2023-01-17,4.7,Korea,Dostepny
+77,Monitor BenQ Gaming,Elektronika,1499.00,14,BenQ,2023-02-21,4.6,Tajwan,Dostepny
+78,Webcam Razer Kiyo,Elektronika,699.00,28,Razer,2023-03-27,4.5,USA,Dostepny
+79,Mikser Studyjny Behringer,Elektronika,499.00,19,Behringer,2023-04-29,4.3,Niemcy,Dostepny
+80,Interfejs Focusrite Scarlett,Elektronika,799.00,23,Focusrite,2023-06-01,4.6,Wielka Brytania,Dostepny
+81,Plecak Nike Brasilia,Odziez,149.00,189,Nike,2023-01-19,4.2,Wietnam,Dostepny
+82,Torba Adidas Linear,Odziez,119.00,234,Adidas,2023-02-23,4.1,Chiny,Dostepny
+83,Walizka Samsonite S'Cure,Odziez,899.00,34,Samsonite,2023-03-29,4.7,Belgia,Dostepny
+84,Saszetka Eastpak Springer,Odziez,99.00,156,Eastpak,2023-05-01,4.3,USA,Dostepny
+85,Nerka Fila Waist,Odziez,79.00,178,Fila,2023-06-03,4.0,Italia,Dostepny
+86,Oliwa Extra Virgin Monini,Zywnosc,35.00,234,Monini,2023-01-28,4.6,Włochy,Dostepny
+87,Ocet Balsamiczny Acetaia,Zywnosc,45.00,156,Acetaia,2023-03-02,4.7,Włochy,Dostepny
+88,Sól Himalajska Pink,Zywnosc,12.00,345,Himalaya,2023-04-04,4.4,Pakistan,Dostepny
+89,Pieprz Czarny Kamis,Zywnosc,8.00,456,Kamis,2023-05-08,4.3,Polska,Dostepny
+90,Bazylia Suszona Prymat,Zywnosc,6.00,567,Prymat,2023-06-10,4.2,Polska,Dostepny
+91,Router Asus RT-AX88U,Elektronika,1299.00,15,ASUS,2023-01-11,4.8,Tajwan,Dostepny
+92,Switch TP-Link 8-port,Elektronika,199.00,45,TP-Link,2023-02-15,4.4,Chiny,Dostepny
+93,Access Point Ubiquiti,Elektronika,699.00,23,Ubiquiti,2023-03-19,4.7,USA,Dostepny
+94,Kabel HDMI Belkin 2m,Elektronika,89.00,234,Belkin,2023-04-21,4.3,USA,Dostepny
+95,Kabel USB-C Anker 1m,Elektronika,59.00,345,Anker,2023-05-25,4.2,Chiny,Dostepny
+96,Buty Reebok Classic,Odziez,349.00,98,Reebok,2023-01-21,4.3,Wietnam,Dostepny
+97,Sandały Birkenstock Arizona,Odziez,399.00,67,Birkenstock,2023-02-25,4.6,Niemcy,Dostepny
+98,Klapki Crocs Classic,Odziez,199.00,156,Crocs,2023-03-31,4.1,USA,Dostepny
+99,Trampki Converse All Star,Odziez,299.00,123,Converse,2023-05-03,4.5,Wietnam,Dostepny
+100,Kozaki Timberland 6-inch,Odziez,799.00,45,Timberland,2023-06-05,4.7,USA,Dostepny
+101,Czekolada Wedel Ptasie Mleczko,Zywnosc,18.00,567,Wedel,2023-01-30,4.5,Polska,Dostepny
+102,Ciastka Delicje Szampańskie,Zywnosc,12.00,678,Delicje,2023-03-04,4.3,Polska,Dostepny
+103,Wafel Góralki Mleczne,Zywnosc,8.00,789,Góralki,2023-04-06,4.4,Polska,Dostepny
+104,Batonik Snickers Original,Zywnosc,4.00,890,Mars,2023-05-10,4.2,USA,Dostepny
+105,Guma Orbit White,Zywnosc,3.00,1234,Wrigley,2023-06-12,4.0,USA,Dostepny
+106,SSD Crucial MX500 500GB,Elektronika,349.00,67,Crucial,2023-01-13,4.6,USA,Dostepny
+107,HDD Seagate 2TB,Elektronika,299.00,89,Seagate,2023-02-17,4.4,USA,Dostepny
+108,Pendrive Kingston 64GB,Elektronika,49.00,234,Kingston,2023-03-21,4.2,Tajwan,Dostepny
+109,Karta SD SanDisk 128GB,Elektronika,99.00,156,SanDisk,2023-04-23,4.5,USA,Dostepny
+110,NAS Synology DS220+,Elektronika,1999.00,12,Synology,2023-05-27,4.8,Tajwan,Dostepny
+111,Kurtka Zimowa Moncler,Odziez,4999.00,5,Moncler,2023-01-23,4.9,Włochy,Brak
+112,Spodnie Narciarskie Salomon,Odziez,699.00,34,Salomon,2023-02-27,4.5,Francja,Dostepny
+113,Rękawice Narciarskie Reusch,Odziez,249.00,67,Reusch,2023-04-01,4.4,Niemcy,Dostepny
+114,Gogle Oakley Flight Deck,Odziez,899.00,23,Oakley,2023-05-05,4.7,USA,Dostepny
+115,Kask Smith Vantage,Odziez,699.00,34,Smith,2023-06-07,4.6,USA,Dostepny
+116,Sok Kubuś Multiwitamina,Zywnosc,7.00,678,Kubuś,2023-02-01,4.3,Polska,Dostepny
+117,Napój Coca-Cola Zero,Zywnosc,5.00,890,Coca-Cola,2023-03-05,4.1,USA,Dostepny
+118,Napój Red Bull Energy,Zywnosc,8.00,567,Red Bull,2023-04-07,4.4,Austria,Dostepny
+119,Herbata Lipton Green,Zywnosc,15.00,456,Lipton,2023-05-11,4.2,Wielka Brytania,Dostepny
+120,Kawa Nescafe Gold,Zywnosc,38.00,234,Nescafe,2023-06-13,4.5,Szwajcaria,Dostepny
+121,Mysz Razer DeathAdder,Elektronika,299.00,56,Razer,2023-01-15,4.7,USA,Dostepny
+122,Klawiatura Logitech G Pro,Elektronika,549.00,34,Logitech,2023-02-19,4.6,Szwajcaria,Dostepny
+123,Podkładka SteelSeries QcK,Elektronika,79.00,178,SteelSeries,2023-03-23,4.3,Dania,Dostepny
+124,Fotel DXRacer Formula,Elektronika,1299.00,15,DXRacer,2023-04-27,4.5,USA,Dostepny
+125,Biurko Ikea Bekant,Elektronika,899.00,23,Ikea,2023-05-29,4.4,Szwecja,Dostepny
+126,Bluza Champion Reverse,Odziez,299.00,134,Champion,2023-01-25,4.4,USA,Dostepny
+127,Spodnie Dresowe Puma,Odziez,189.00,167,Puma,2023-02-29,4.2,Indonezja,Dostepny
+128,Koszulka Polo Lacoste,Odziez,399.00,89,Lacoste,2023-04-02,4.6,Francja,Dostepny
+129,Kapelusz Panama Jack,Odziez,199.00,67,Panama Jack,2023-05-06,4.3,Hiszpania,Dostepny
+130,Okulary Ray-Ban Aviator,Odziez,699.00,45,Ray-Ban,2023-06-08,4.7,Włochy,Dostepny
+131,Mleko Łaciate 3.2%,Zywnosc,4.00,890,Łaciate,2023-02-03,4.4,Polska,Dostepny
+132,Jaja L Wiejskie,Zywnosc,12.00,456,Ferma,2023-03-07,4.5,Polska,Dostepny
+133,Chleb Krojony Balviten,Zywnosc,6.00,567,Balviten,2023-04-09,4.2,Polska,Dostepny
+134,Szynka Delikatesowa Sokołów,Zywnosc,28.00,234,Sokołów,2023-05-13,4.6,Polska,Dostepny
+135,Kiełbasa Krakowska Tarczyński,Zywnosc,32.00,189,Tarczyński,2023-06-15,4.5,Polska,Dostepny
+136,Monitor Dell UltraSharp,Elektronika,1599.00,13,Dell,2023-01-16,4.7,USA,Dostepny
+137,Laptop HP Pavilion,Elektronika,3299.00,19,HP,2023-02-20,4.5,Chiny,Dostepny
+138,Tablet Samsung Tab S8,Elektronika,2799.00,21,Samsung,2023-03-24,4.6,Korea,Dostepny
+139,E-czytnik Kindle Paperwhite,Elektronika,599.00,67,Amazon,2023-04-28,4.7,USA,Dostepny
+140,Smart TV Samsung 55,Elektronika,2999.00,11,Samsung,2023-06-01,4.8,Korea,Dostepny
+141,Sukienka Mango Floral,Odziez,249.00,123,Mango,2023-01-27,4.3,Hiszpania,Dostepny
+142,Spódnica Promod Midi,Odziez,159.00,156,Promod,2023-03-01,4.1,Francja,Dostepny
+143,Top Vero Moda Lace,Odziez,99.00,189,Vero Moda,2023-04-03,4.2,Dania,Dostepny
+144,Legginsy Calzedonia High,Odziez,89.00,234,Calzedonia,2023-05-09,4.4,Włochy,Dostepny
+145,Bielizna Victoria's Secret,Odziez,149.00,98,Victoria's Secret,2023-06-11,4.5,USA,Dostepny
+146,Herbata Dilmah Ceylon,Zywnosc,25.00,234,Dilmah,2023-02-05,4.6,Sri Lanka,Dostepny
+147,Miód Wielokwiatowy Sadecki,Zywnosc,22.00,178,Sadecki Bartnik,2023-03-09,4.7,Polska,Dostepny
+148,Dżem Łowicz Truskawka,Zywnosc,10.00,345,Łowicz,2023-04-11,4.4,Polska,Dostepny
+149,Nutella Ferrero 400g,Zywnosc,18.00,456,Ferrero,2023-05-15,4.8,Włochy,Dostepny
+150,Masło Orzechowe Sunpat,Zywnosc,16.00,267,Sunpat,2023-06-17,4.3,Wielka Brytania,Dostepny
